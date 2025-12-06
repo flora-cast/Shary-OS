@@ -1,4 +1,5 @@
 # Shary OS
+_A Flora Cast Project_
 
 > **⚠️ Currently under active development** — Not yet ready for production use
 
